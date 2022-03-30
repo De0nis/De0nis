@@ -1,4 +1,4 @@
 - 🌱 I’m currently learning Python
 -looking for job now)
 
-![logocard](https://user-images.githubusercontent.com/96110531/160748292-e143c623-4c16-4384-aeb7-cdfe45bcd8a0.png)
+![logcard](https://user-images.githubusercontent.com/96110531/160748728-ea70161a-d14a-42e5-aa75-b7658ad299f9.png)
